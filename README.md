@@ -1,10 +1,10 @@
 Google Android phone (arm) Real time detect Result 
 ---
-![image](https://github.com/shemberlin/tray_tfinnovator/gif/result.gif)
+![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
 Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/gif/real_time detectation_nvidia_jetson_nano.gif)
-Nvidia jetson nano (arm) Real time detect Result 
-![image](https://github.com/shemberlin/tray_tfinnovator/gif/real_time detectation_nvidia_jetson_nano_tensorrt.gif)
+Nvidia jetson nano (arm) Real time detect Result Tersorrt
+![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/real_time_detectation_nvidia_jetson_nano_tensorrt.gif)
 
 ---
 ## Ultra High level process for deploying AI solutions (Hybrid solution) Not end to end
