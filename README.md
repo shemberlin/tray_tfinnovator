@@ -18,7 +18,7 @@ First, images are taken and annotated with LabelImg.
 The dataset is uploaded to Google Colab for training with the YOLOv5 model.
 
 After the model training, it is deployed separately to a smart phone and an edge device - Jetson Nano, with TensorRT used for optimization. 
-
+## Tecnical explain
 
 ## Usage
 ### 1. Git clone Ultralytics `yolov5`
