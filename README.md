@@ -8,7 +8,7 @@ Nvidia jetson nano (arm) Real time detect Result
 
 ---
 ## Ultra High level process for deploying AI solutions (Hybrid solution) Not end to end
-![image](https://github.com/shemberlin/tray_tfinnovator/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
+![image](https://github.com/shemberlin/tray_tfinnovator/blob/961e97bafc864278c83792271f03c61601eac4b1/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
 
 ## Discription
 This flowchart outlines the AI model development and deployment process. 
