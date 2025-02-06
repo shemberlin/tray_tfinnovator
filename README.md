@@ -3,30 +3,30 @@ Google Android phone (arm) Real time detect Result
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
 Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/fb9aaae852c774fbe2067c803f81115308349664/gif/real_time_detectation_nvidia_jetson_nano.gif)
-Nvidia jetson nano (arm) Real time detect Result Tersorrt
+## NVIDIA Jetson Nano (ARM Architecture) Real-Time Detection Result with TensorRT
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/real_time_detectation_nvidia_jetson_nano_tensorrt.gif)
 ## Breakdown of the Content:
-	1.	Title: “Real-time detection” — emphasizing the ability to detect objects in real-time.
-	2.	Key Technology: “TensorRT engine => inference time Faster 59%” — TensorRT enhances inference speed, improving overall performance by 59%.
-	3.	Performance Comparison:
-	•	Before Optimization (Left Image):
-	•	Inference Time: ~54ms
-	•	Frame Rate (FPS): 18fps
-	•	After Optimization (Right Image) (using TensorRT):
-	•	Inference Time: ~34ms
-	•	Frame Rate (FPS): 29fps
-	4.	Visualized Results:
-	•	Both screenshots display object detection results, where red bounding boxes highlight detected objects with confidence scores (e.g., 0.90, 0.88, etc.).
-	•	The label “OK” in the detection results likely indicates that the detected objects meet certain criteria or pass the inspection.
+1. Title: “Real-time detection” — emphasizing the ability to detect objects in real-time.
+2.	Key Technology: “TensorRT engine => inference time Faster 59%” — TensorRT enhances inference speed, improving overall performance by 59%.
+3.	Performance Comparison:
+*	Before Optimization (Left Image):
+*	Inference Time: ~54ms
+*	Frame Rate (FPS): 18fps
+*	After Optimization (Right Image) (using TensorRT):
+*	Inference Time: ~34ms
+*	Frame Rate (FPS): 29fps
+4.	Visualized Results:
+*	Both screenshots display object detection results, where red bounding boxes highlight detected objects with confidence scores (e.g., 0.90, 0.88, etc.).
+*	The label “OK” in the detection results likely indicates that the detected objects meet certain criteria or pass the inspection.
 
 ## Conclusion:
 
 ## After optimization with TensorRT:
-	•	Inference time is reduced (from 54ms to 34ms).
-	•	Frame rate increases (from 18fps to 29fps).
-	•	Achieves a 59% performance boost, making real-time detection significantly faster and smoother.
+*	Inference time is reduced (from 54ms to 34ms).
+*	Frame rate increases (from 18fps to 29fps).
+*	Achieves a 59% performance boost, making real-time detection significantly faster and smoother.
 
-This kind of performance enhancement is crucial for applications requiring high-efficiency inference, such as edge AI, machine vision, and automated inspection systems.
+*	This kind of performance enhancement is crucial for applications requiring high-efficiency inference, such as edge AI, machine vision, and automated inspection systems.
 ---
 ## Ultra High level process for deploying AI solutions (Multi solution) 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/961e97bafc864278c83792271f03c61601eac4b1/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
