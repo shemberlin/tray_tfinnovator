@@ -29,8 +29,8 @@ Nvidia jetson nano (arm) Real time detect Result Tersorrt
 *	Use PyTorch as the deep learning framework and choose Ultralytics YOLOv5 as the base object detection model.
 
 3. Model Conversion and Optimization
-*	After training, convert the YOLOv5 model into ONNX format, an open neural network exchange format that enables cross-platform deployment.
-*	Use TensorRT for model optimization, enhancing inference speed and reducing latency.
+*	After training, convert the YOLOv5 model from h5 format into ONNX format, an open neural network exchange format that enables cross-platform deployment.
+*	Use TensorRT for model optimization, enhancing inference speed, reducing latency, and significantly increasing FPS.
 
 4. Deployment to Different Devices
 *	Mobile Device Deployment:
