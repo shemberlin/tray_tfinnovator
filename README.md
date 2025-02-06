@@ -20,7 +20,6 @@
 *	The label “OK” in the detection results likely indicates that the detected objects meet certain criteria or pass the inspection.
 
 ## Conclusion:
-
 ###  After optimization with TensorRT:
 *	Inference time is reduced (from 54ms to 34ms).
 *	Frame rate increases (from 18fps to 29fps).
