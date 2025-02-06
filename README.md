@@ -7,10 +7,12 @@ Nvidia jetson nano (arm) Real time detect Result Tersorrt
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/real_time_detectation_nvidia_jetson_nano_tensorrt.gif)
 
 ---
-## Ultra High level process for deploying AI solutions (Hybrid solution) Not end to end
+## Ultra High level process for deploying AI solutions (Multi solution) 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/961e97bafc864278c83792271f03c61601eac4b1/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
 
 ## Discription
+*	Not end to end solution.
+
 *	This flowchart outlines the AI model development and deployment process. 
 
 *	First, images are taken and annotated with LabelImg. 
