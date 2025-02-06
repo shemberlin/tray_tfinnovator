@@ -45,7 +45,8 @@ Nvidia jetson nano (arm) Real time detect Result Tersorrt
 
 Technical Highlights
 *	Cloud Training (Google Colab) reduces local computation burden, providing a flexible and efficient training environment.
-
+*	Android development benefits from cloud-based training by offloading intensive computations, reducing the processing load on mobile devices.
+*	Cloud-based training enables real-time AI model updates, ensuring up-to-date performance and improved efficiency on Android platforms.
 
 ## NVIDIA Jetson Nano full image file
 https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing
