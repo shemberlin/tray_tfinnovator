@@ -11,17 +11,17 @@ Nvidia jetson nano (arm) Real time detect Result Tersorrt
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/961e97bafc864278c83792271f03c61601eac4b1/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
 
 ## Discription
-This flowchart outlines the AI model development and deployment process. 
+*	This flowchart outlines the AI model development and deployment process. 
 
-First, images are taken and annotated with LabelImg. 
+*	First, images are taken and annotated with LabelImg. 
 
-The dataset is uploaded to Google Colab for training with the YOLOv5 model.
+*	The dataset is uploaded to Google Colab for training with the YOLOv5 model.
 
-After the model training, it is deployed separately to a smart phone and an edge device - Jetson Nano, with TensorRT used for optimization. 
+*	After the model training, it is deployed separately to a smart phone and an edge device - Jetson Nano, with TensorRT used for optimization. 
 ## Technical explain
 
 1. Data Collection and Annotation
-*	Capture image data using a camera as training samples.
+*	Capture image data using an iPad Pro camera as training samples.
 *	Use LabelImg as an annotation tool to label images and generate datasets containing train (training data) and val (validation data).
 
 2. Model Training
