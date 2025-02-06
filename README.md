@@ -20,7 +20,7 @@ The dataset is uploaded to Google Colab for training with the YOLOv5 model.
 After the model training, it is deployed separately to a smart phone and an edge device - Jetson Nano, with TensorRT used for optimization. 
 ## Technical explain
 
-### Data Collection and Annotation
+1. Data Collection and Annotation
 *	Capture image data using a camera as training samples.
 *	Use LabelImg as an annotation tool to label images and generate datasets containing train (training data) and val (validation data).
 
