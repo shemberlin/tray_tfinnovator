@@ -1,7 +1,7 @@
-Google Android phone (arm) Real time detect Result 
+## Google Android phone (arm) Real time detect Result 
 ---
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
-Nvidia jetson nano Real time detect Result 
+## Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/fb9aaae852c774fbe2067c803f81115308349664/gif/real_time_detectation_nvidia_jetson_nano.gif)
 ## NVIDIA Jetson Nano (ARM Architecture) Real-Time Detection Result with TensorRT
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/real_time_detectation_nvidia_jetson_nano_tensorrt.gif)
