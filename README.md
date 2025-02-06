@@ -21,7 +21,7 @@
 
 ## Conclusion:
 
-## After optimization with TensorRT:
+###  After optimization with TensorRT:
 *	Inference time is reduced (from 54ms to 34ms).
 *	Frame rate increases (from 18fps to 29fps).
 *	Achieves a 59% performance boost, making real-time detection significantly faster and smoother.
