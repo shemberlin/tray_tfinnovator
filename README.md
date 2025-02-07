@@ -4,8 +4,9 @@
 ## Samsung S20 Ultra 5G with Google Android System - Real-Time Detection Results
 ---
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
-What is tray?
-The term “Tray” generally refers to a flat container or platform used for holding, organizing, or transporting items. Its meaning depends on the specific context:
+### What is tray?
+The term “Tray” generally refers to a flat container or platform used for holding, organizing, or transporting items. 
+Its meaning depends on the specific context:
 1. Industrial & Electronics
 *	IC Tray (Integrated Circuit Tray): Used for storing and transporting electronic components, especially in SMT (Surface Mount Technology) production lines.
 2. Computers & Operating Systems
