@@ -1,6 +1,23 @@
+
+
+
 ## Google Android phone (arm) Real time detect Result 
 ---
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
+What is tray?
+The term “Tray” generally refers to a flat container or platform used for holding, organizing, or transporting items. Its meaning depends on the specific context:
+1. Industrial & Electronics
+*	IC Tray (Integrated Circuit Tray): Used for storing and transporting electronic components, especially in SMT (Surface Mount Technology) production lines.
+2. Computers & Operating Systems
+*	In Windows or macOS, the “System Tray” (also known as the notification area) is the section of the taskbar that displays icons for system status, background applications, Wi-Fi, volume control, battery status, etc.
+*	Some applications minimize to the system tray, allowing them to run in the background without occupying the main screen.
+*	HDD Tray (Hard Drive Tray): A removable or fixed bracket for holding hard drives, commonly found in server racks or external hard drive enclosures.
+3. Machinery & Automation
+*	Robotic Tray: In automated production lines, robotic arms pick and place objects from a tray, assisting in assembly or transportation.
+4. Food & Daily Life
+*	Food Tray: A flat serving tray used in restaurants, cafeterias, or catering services.
+*	Ice Tray: A plastic or silicone mold used for making ice cubes.
+
 ## Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/fb9aaae852c774fbe2067c803f81115308349664/gif/real_time_detectation_nvidia_jetson_nano.gif)
 ## NVIDIA Jetson Nano Real-Time Detection Result with TensorRT
