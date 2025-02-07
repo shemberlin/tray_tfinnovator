@@ -1,7 +1,7 @@
 
 
 
-## Google Android phone (arm) Real time detect Result 
+## Samsung S20 Ultra 5G with Google Android System - Real-Time Detection Results
 ---
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/result.gif)
 What is tray?
