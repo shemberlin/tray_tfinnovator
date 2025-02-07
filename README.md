@@ -39,7 +39,7 @@ Its meaning depends on the specific context:
 
 ## Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/fb9aaae852c774fbe2067c803f81115308349664/gif/real_time_detectation_nvidia_jetson_nano.gif)
-*	This is the YOLO v5 real-time detection result, and on the right is our Nvidia Jetson Nano and camera.
+*	This is the YOLO v5 real-time detection result, and on the right is our Nvidia Jetson Nano and Logitech c270 HD camera.
 ## NVIDIA Jetson Nano Real-Time Detection Result with TensorRT
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/3331315961ff6e7c102409392a84e3ddebb1591c/gif/real_time_detectation_nvidia_jetson_nano_tensorrt.gif)
 ## Breakdown of the Content:
