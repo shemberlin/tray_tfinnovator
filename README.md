@@ -17,6 +17,24 @@ The term “Tray” generally refers to a flat container or platform used for ho
 4. Food & Daily Life
 *	Food Tray: A flat serving tray used in restaurants, cafeterias, or catering services.
 *	Ice Tray: A plastic or silicone mold used for making ice cubes.
+### Explanation of Each Screen:
+1. First Image (Leftmost) - “About Phone” Information
+*	Displays basic device information, including Model (SM-G9880), Product Name (Galaxy S20 Ultra 5G), IMEI numbers, etc.
+*	This is likely used to confirm the exact specifications of the device, ensuring the testing environment matches the required conditions.
+2. Second Image (Second from Left) - “Software Information”
+*	Shows details such as One UI version (5.1), Android version (13), Baseband version, Kernel version (4.19.113), and Knox security version.
+*	These details help developers verify firmware, OS compatibility, and security features, which are crucial when testing AI models or app compatibility.
+3. Third Image (Second from Right) - TensorFlow Lite AI Object Detection
+*	This screen displays an AI object detection application running TensorFlow Lite, possibly using the YOLOv5 object detection model (YOLOv5s-fp16.tflite).
+*	The “OK 87.84%” labels indicate the model’s confidence scores in detecting objects within the image (likely objects inside a tray).
+*	This type of testing is commonly used in edge AI inference, where AI models run on a mobile device instead of relying on cloud computing.
+4. Fourth Image (Rightmost) - CPU-Z Hardware Information
+*	This screen shows the CPU-Z application, providing details about the device’s processor:
+*	Processor Model: Qualcomm Snapdragon 865
+*	Clock Speed: 300 MHz - 2.84 GHz
+*	Core Architecture: big.LITTLE, Kryo 585
+*	Process Technology: 7nm
+*	GPU Model: Adreno 650
 
 ## Nvidia jetson nano Real time detect Result 
 ![image](https://github.com/shemberlin/tray_tfinnovator/blob/fb9aaae852c774fbe2067c803f81115308349664/gif/real_time_detectation_nvidia_jetson_nano.gif)
