@@ -108,7 +108,7 @@ Technical Highlights
 *	Cloud-based training enables real-time AI model updates, ensuring up-to-date performance and improved efficiency on Android platforms.
 
 ## NVIDIA Jetson Nano full image file
-https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing
+https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing <br/>
 `python3 detect.py --weights best_n.engine --half --data data.yaml --nosave --source 0`
 ## Roadmap
 
