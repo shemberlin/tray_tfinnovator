@@ -111,7 +111,7 @@ Technical Highlights
 https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing <br/>
 ## Step
 Connect USB Camera: Logitech C270 Webcam <br/>
-`cd yolov5`
+`cd yolov5`<br/>
 `python3 detect.py --weights best_n.engine --half --data data.yaml --nosave --source 0`
 ## Roadmap
 
