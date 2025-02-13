@@ -109,6 +109,7 @@ Technical Highlights
 
 ## NVIDIA Jetson Nano full image file
 https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing
+`python3 detect.py --weights best_n.engine --half --data data.yaml --nosave --source 0`
 ## Roadmap
 
 *	In the future, I hope that Google can integrate NVIDIA GPUs into smartphones, combining Android with the ROS system for control, creating a complete end-to-end solution.
