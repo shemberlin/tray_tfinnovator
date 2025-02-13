@@ -65,7 +65,7 @@ Its meaning depends on the specific context:
 *	This kind of performance enhancement is crucial for applications requiring high-efficiency inference, such as edge AI, machine vision, and automated inspection systems.
 ---
 ## Ultra High level process for deploying AI solutions (Multi solution) 
-![image](https://github.com/shemberlin/tray_tfinnovator/blob/961e97bafc864278c83792271f03c61601eac4b1/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
+![image](https://github.com/shemberlin/tray_tfinnovator/blob/302cc04185410e83131d7a098a8ece79fb4b245e/gif/ultra_high_level_process_for_deploying_AI_solution.gif)
 
 ## Discription
 *	Not end to end solution.
