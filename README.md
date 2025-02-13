@@ -109,7 +109,7 @@ Technical Highlights
 
 ## NVIDIA Jetson Nano full image file
 https://drive.google.com/file/d/1YikbwvXPR4rfkoOafR4yyNZYi4hsaJj0/view?usp=sharing <br/>
-# Camera: Logitech C270 Webcam
+USB Camera: Logitech C270 Webcam <br/>
 `python3 detect.py --weights best_n.engine --half --data data.yaml --nosave --source 0`
 ## Roadmap
 
